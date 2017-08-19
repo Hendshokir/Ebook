@@ -1,0 +1,296 @@
+/* Start Header */
+@media (max-width: 1200px) and (min-width: 992px) {
+  .header .intro h1 {
+    font-size: 30px; }
+  .header .intro p {
+    margin-bottom: 20px;
+    font-size: 17px; }
+  .header .book-img img {
+    width: 350px;
+    height: 550px; } }
+@media (max-width: 991px) and (min-width: 768px) {
+  .header {
+    height: 800px; }
+    .header img {
+      margin-top: 20px; }
+    .header p {
+      margin-top: 35px; }
+    .header .intro {
+      width: 100%; }
+      .header .intro h1 {
+        margin-left: 10%;
+        margin-top: 10%;
+        margin-bottom: 72px; }
+      .header .intro p {
+        margin-top: -39px;
+        margin-left: 10%;
+        max-width: 50%; }
+      .header .intro .btn {
+        margin-left: 10%;
+        margin-top: 75px !important; }
+    .header .book-img {
+      width: 100%; }
+      .header .book-img img {
+        width: 350px;
+        height: 420px;
+        margin-top: 5%; } }
+@media (max-width: 767px) and (min-width: 481px) {
+  .header {
+    height: 800px; }
+    .header img {
+      margin-top: 20px;
+      margin-left: 20px; }
+    .header p {
+      margin-top: 35px; }
+    .header .intro {
+      width: 100%; }
+      .header .intro h1 {
+        margin-left: 10%;
+        margin-top: 15%;
+        margin-bottom: 62px;
+        font-size: 32px;
+        line-height: 1.5;
+        max-width: 80%; }
+      .header .intro p {
+        margin-top: -39px;
+        margin-left: 10%;
+        max-width: 70%;
+        font-size: 16px; }
+      .header .intro .btn {
+        margin-left: 10%;
+        margin-top: 75px !important; }
+    .header .book-img {
+      width: 100%; }
+      .header .book-img img {
+        width: 350px;
+        height: 420px;
+        margin-top: 5%;
+        margin-left: 10%; } }
+@media (max-width: 480px) {
+  .header {
+    height: 700px; }
+    .header img {
+      margin-top: 20px;
+      margin-left: 20px; }
+    .header p {
+      margin-top: 35px; }
+    .header .intro {
+      width: 100%; }
+      .header .intro h1 {
+        margin-left: 10%;
+        margin-top: 15%;
+        margin-bottom: 62px;
+        font-size: 24px;
+        line-height: 1.4;
+        max-width: 80%; }
+      .header .intro p {
+        margin-top: -39px;
+        margin-left: 10%;
+        max-width: 70%;
+        font-size: 13px; }
+      .header .intro .btn {
+        margin-left: 10%;
+        margin-top: 75px !important; }
+    .header .book-img {
+      width: 100%; }
+      .header .book-img img {
+        width: 230px;
+        height: 320px;
+        margin-top: 10%;
+        margin-left: 10%; } }
+/* End Header */
+/* Start Feature */
+@media (max-width: 1200px) and (min-width: 992px) {
+  .feature .feats {
+    margin-left: 3%; } }
+@media (max-width: 991px) and (min-width: 768px) {
+  .feature .lead {
+    max-width: 60%;
+    margin-left: 20%; }
+  .feature .feats {
+    margin-left: 30%; }
+    .feature .feats .feat {
+      margin-bottom: 40px; }
+      .feature .feats .feat img {
+        margin-bottom: 20px; }
+      .feature .feats .feat p {
+        margin-left: -50px; } }
+@media (max-width: 767px) and (min-width: 481px) {
+  .feature .lead {
+    max-width: 90%;
+    margin-left: 5%; }
+  .feature .feats {
+    margin-left: 13%; }
+    .feature .feats .feat {
+      margin-bottom: 30px; }
+      .feature .feats .feat img {
+        margin-left: 36%;
+        margin-bottom: 5px; }
+      .feature .feats .feat h4 {
+        margin-bottom: 20px;
+        margin-left: 26%; }
+      .feature .feats .feat p {
+        margin-left: 0%;
+        max-width: 95%; } }
+@media (max-width: 480px) {
+  .feature .lead {
+    max-width: 90%;
+    margin-left: 5%; }
+  .feature .feats {
+    margin-left: 13%; }
+    .feature .feats .feat {
+      margin-bottom: 30px; }
+      .feature .feats .feat img {
+        margin-left: 30%;
+        margin-bottom: 5px; }
+      .feature .feats .feat h4 {
+        margin-bottom: 20px;
+        margin-left: 18%; }
+      .feature .feats .feat p {
+        margin-left: 0%;
+        max-width: 95%; } }
+/* End Features */
+/* Start Testimonail */
+@media (max-width: 1200px) and (min-width: 992px) {
+  .testimonail .owl-theme .items span {
+    margin-left: 10pc; }
+  .testimonail .owl-theme .items p {
+    font-size: 18px; }
+  .testimonail .owl-theme .items img {
+    margin-left: 28%; }
+  .testimonail .owl-theme .items h6 {
+    font-size: 16px;
+    margin-left: 30%; }
+  .testimonail .owl-theme .items h6 + p {
+    margin-left: 31%; } }
+@media (max-width: 991px) and (min-width: 601px) {
+  .testimonail h2 {
+    margin-bottom: 50px; }
+  .testimonail .owl-theme .items span {
+    margin-top: 0;
+    margin-left: 6pc; }
+  .testimonail .owl-theme .items p {
+    font-size: 14px; }
+  .testimonail .owl-theme .items img {
+    margin-left: 24%; }
+  .testimonail .owl-theme .items h6 {
+    font-size: 16px;
+    margin-left: 27%; }
+  .testimonail .owl-theme .items h6 + p {
+    margin-left: 28%; } }
+@media (max-width: 600px) {
+  .testimonail h2 {
+    margin-bottom: 40px; }
+  .testimonail .owl-theme .items span {
+    margin-left: 40%; }
+  .testimonail .owl-theme .items p {
+    font-size: 16px;
+    max-width: 80%;
+    margin-left: 5%; }
+  .testimonail .owl-theme .items img {
+    margin-left: 40%; }
+  .testimonail .owl-theme .items h6 {
+    font-size: 16px;
+    margin-left: 41%; }
+  .testimonail .owl-theme .items h6 + p {
+    margin-left: 42%; } }
+/* End Testimonail */
+/* Start Pricing */
+@media (max-width: 1200px) and (min-width: 992px) {
+  .pricing p {
+    width: 42%; }
+  .pricing .item .twelve {
+    margin-left: 37%; }
+  .pricing .item .btn {
+    margin-top: 49%;
+    margin-left: 25%; } }
+@media (max-width: 991px) and (min-width: 767px) {
+  .pricing {
+    height: 1300px; }
+    .pricing .item {
+      height: 300px; }
+      .pricing .item .btn {
+        margin-top: 63px;
+        margin-left: 36%; }
+      .pricing .item p {
+        margin-top: 0px; } }
+@media (max-width: 767px) and (min-width: 481px) {
+  .pricing {
+    height: 1300px; }
+    .pricing .item {
+      height: 300px; }
+      .pricing .item .btn {
+        margin-top: 63px;
+        margin-left: 36%; }
+      .pricing .item p {
+        margin-top: 0px; } }
+@media (max-width: 480px) {
+  .pricing {
+    height: 1450px; }
+    .pricing .item {
+      height: 350px; }
+      .pricing .item .btn {
+        margin-top: 100px;
+        margin-left: 36%; }
+      .pricing .item p {
+        margin-top: 0px; } }
+/* End Pricing*/
+/* Start Action*/
+@media (max-width: 1200px) and (min-width: 992px) {
+  .action {
+    height: 440px; }
+    .action h2 {
+      max-width: 80%;
+      margin-left: 13%;
+      line-height: 1.5;
+      margin-top: 80px;
+      margin-bottom: 30px; }
+    .action .btn {
+      margin-left: 41%; } }
+@media (max-width: 991px) and (min-width: 768px) {
+  .action {
+    height: 440px; }
+    .action h2 {
+      max-width: 80%;
+      margin-left: 13%;
+      line-height: 1.5;
+      margin-top: 80px;
+      margin-bottom: 30px; }
+    .action p {
+      max-width: 60%;
+      margin-left: 20%; }
+    .action .btn {
+      margin-left: 41%; } }
+@media (max-width: 767px) and (min-width: 481px) {
+  .action {
+    height: 480px; }
+    .action h2 {
+      font-size: 30px;
+      max-width: 80%;
+      margin-left: 13%;
+      line-height: 1.5;
+      margin-top: 60px;
+      margin-bottom: 30px; }
+    .action p {
+      max-width: 60%;
+      margin-left: 20%; }
+    .action .btn {
+      margin-left: 35%; } }
+@media (max-width: 480px) {
+  .action {
+    height: 460px; }
+    .action h2 {
+      font-size: 30px;
+      max-width: 80%;
+      margin-left: 13%;
+      line-height: 1.5;
+      margin-top: 60px;
+      margin-bottom: 30px; }
+    .action p {
+      max-width: 60%;
+      margin-left: 20%; }
+    .action .btn {
+      margin-left: 35%; } }
+/* End Action */
+
+/*# sourceMappingURL=media.css.map */
